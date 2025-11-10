@@ -59,7 +59,7 @@ during the presentation even if it was very broad and general info.
 </p>
 </details>
 
-[[Project Notebook - GitHub (No repo)]](https://github.com/ARoos-BI24/MainPage/blob/main/images/MMGO.ipynb)
+[[Project Notebook - GitHub (No repo)]](https://github.com/ARoos-BI24/MainPage/blob/main/folder/MMGO.ipynb)
 
 
 </p>
@@ -120,8 +120,8 @@ Learn to use Azure and some of its features. All work was indiviual while still 
 
 --
 
-<img src="https://github.com/ARoos-BI24/MainPage/blob/main/images/Screenshot%202025-11-10%20151907.png?raw=true" alt="image-1"/>
-<img src="https://github.com/ARoos-BI24/MainPage/blob/main/images/Screenshot%202025-11-10%20151920.png?raw=true" alt="image-2"/>
+<img src="https://github.com/ARoos-BI24/MainPage/blob/main/folder/Screenshot%202025-11-10%20151907.png?raw=true" alt="image-1"/>
+<img src="https://github.com/ARoos-BI24/MainPage/blob/main/folder/Screenshot%202025-11-10%20151920.png?raw=true" alt="image-2"/>
 
 </p>
 </details>
